@@ -1,0 +1,25 @@
+{
+  "name": "hice",
+  "version": "1.0.0",
+  "description": "Always learn and to be a nice boy !!! forever boy !!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icecola1991/hice.git"
+  },
+  "keywords": [
+    "icecola"
+  ],
+  "author": "icecola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icecola1991/hice/issues"
+  },
+  "homepage": "https://github.com/icecola1991/hice#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
